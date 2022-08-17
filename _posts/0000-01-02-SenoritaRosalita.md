@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-After adding the text, you can commit the change by entering a commit message in the text-entry field below the file edit view. For guidelines on commit messages, check out the Commits 101 drop-down, just above these instructions
-When you’ve entered a commit message, click Commit new file
+![image](https://user-images.githubusercontent.com/111460633/185234378-bae23061-c7fd-472d-9fe6-67a9e576371d.png)
+
